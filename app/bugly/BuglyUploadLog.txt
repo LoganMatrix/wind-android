@@ -46,3 +46,11 @@ file=/Users/lipengfei/AndroidStudioProjects/client-android/app/build/outputs/map
 sha1=60599d19341f40b2a71240f8b57435219128ce44
 appId=cdd1cf248e
 
+file=/Users/anguoyue/git/windchat/wind-android-github/app/build/outputs/mapping/release/mapping.txt
+sha1=3c60b6f1d4c4825f3483cb09d9e5aff46d04c07d
+appId=cdd1cf248e
+
+file=/Users/anguoyue/git/windchat/wind-android-github/app/build/outputs/mapping/release/mapping.txt
+sha1=9561e744a06f3a664a7a5eaab3e8dbb1e3c9db79
+appId=cdd1cf248e
+
